@@ -1,0 +1,15 @@
+.navbar{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    color: aliceblue;
+}
+.nav-brand{
+    text-align: left;
+}
+.nav-menu{
+    font-size: larger;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
