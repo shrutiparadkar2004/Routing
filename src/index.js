@@ -1,4 +1,3 @@
-
 import ReactDOM from 'react-dom/client';
 import {RouterProvider,createBrowserRouter} from 'react-router-dom'
 import Home from "./views/home/home"
